@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+env
+.vscode
+.env
+**/node_modules/
+src/
+.editorconfig
+scripts/
+index.html
+db.sqlite3
